@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/2025.html" },
+    { "source": "/2024", "destination": "/2024.html" },
+    { "source": "/2025", "destination": "/2025.html" }
+  ]
+}
+
